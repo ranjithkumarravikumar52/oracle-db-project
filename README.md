@@ -1,1 +1,5 @@
-# Oracle DB Project\n\n## Tasks\n- [ ] Task 1\n- [ ] Task 2
+# Oracle DB Project
+
+## Tasks
+- [ ] Task 1
+- [ ] Task 2
