@@ -11,7 +11,7 @@
   - [x] Select join queries to verify the relationships
 
 - [ ] **Phase 2**
-  - [ ] How to populate mock but seemingly real data into our tables
+  - [x] How to populate mock but seemingly real data into our tables
   - [ ] What are some common aggregation, sub queries use cases you can think off
 
 - [ ] **Phase 3**
