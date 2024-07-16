@@ -2,13 +2,13 @@
 
 #### July 17, 2024 - Wednesday - 03:08 AM
 
-- [ ] **Phase 1**
-  - [ ] Set up git in the IDE accessing the files in WSL
-  - [ ] Create table commands script
-  - [ ] Data modeling diagram of the tables we created
-  - [ ] Insert sample data into the tables
-  - [ ] Basic select commands to verify if data is present
-  - [ ] Select join queries to verify the relationships
+- [x] **Phase 1**
+  - [x] Set up git in the IDE accessing the files in WSL
+  - [x] Create table commands script
+  - [x] Data modeling diagram of the tables we created (not feasible with current vscode)
+  - [x] Insert sample data into the tables
+  - [x] Basic select commands to verify if data is present
+  - [x] Select join queries to verify the relationships
 
 - [ ] **Phase 2**
   - [ ] How to populate mock but seemingly real data into our tables
