@@ -11,9 +11,11 @@
   - [x] Select join queries to verify the relationships
 
 - [ ] **Phase 2**
-  - [ ] How to populate mock but seemingly real data into our tables
-  - [ ] What are some common aggregation, sub queries use cases you can think off
+  - [x] How to populate mock but seemingly real data into our tables
 
 - [ ] **Phase 3**
+  - [ ] What are some common aggregation, sub queries use cases you can think off
+
+- [ ] **Phase 4**
   - [ ] Simulate a use case where running some complex query takes a huge amount of time
   - [ ] Solve the above use by using query optimization techniques
